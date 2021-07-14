@@ -20,7 +20,7 @@ public class Ass6child extends Ass6parent
 	{
 		this();
 		System.out.println("Child 3 parameterized Constructor");
-		System.out.println("Added line for github commit");
+		System.out.println("Added line for github 2commit");
 	}
 	public Ass6child(int a, int b, int c, int d) 
 	{
